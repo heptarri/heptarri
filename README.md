@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Parolluvia.
+#### E-mail: qingdkj@outlook.com
+#### State: Waiting for the spring.
 
 <!--
 **qingdkj/qingdkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
