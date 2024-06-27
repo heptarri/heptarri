@@ -1,5 +1,3 @@
-![banner](https://user-images.githubusercontent.com/42088872/95290058-f13b9180-089e-11eb-94e3-a44a5a1172c3.jpg)
-
 ## I'm Heptari! :wave:
 
 <a href="https://github.com/heptari"><img align="right" alt="GitHub" src="https://img.shields.io/badge/GitHub-Heptari-black?style=flat&logo=GitHub&link=https%3A%2F%2Fgithub.com%2Fheptari
