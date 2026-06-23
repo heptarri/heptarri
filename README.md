@@ -1,7 +1,8 @@
 # Heptari
-### A EE & Automation student at Chang'an University.
+### A student majoring in Robotics Engineering at Chang’an University.
 
-- 💻 Currently learning embedded development.
+- 💻 Currently learning reinforcement learning and self-driving-related topics.
 - ⚙️ Interested in control & visual perception algorithms and functional programming.
-- 📝 Researching in the field of automotive electronics.
+- 📝 Researching automotive electronics, including OI-related experience.
 - 🏆 Have experience in OI(Olympaid in Informatics).
+
