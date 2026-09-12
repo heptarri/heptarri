@@ -7,7 +7,7 @@
 ## Positions and Experience
 
 - 2025.10～2026.10 Director of Unmanned Systems at [@CHU Racing Team](https://github.com/CHU-FSAE-Team)
-- 2026.7~2027.7 Embedded Full-Stack Intern at [@HighTorque Robotics](https://github.com/HighTorque-Robotics)
+- 2026.7~2026.9 Embedded Full-Stack Intern at [@HighTorque Robotics](https://github.com/HighTorque-Robotics)
 
 ## Connections
 
